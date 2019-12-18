@@ -1,0 +1,9 @@
+//surname name point group school
+Penkin Victor 100 318 1534
+Ship Art 100 505 1509
+Russian Victor 99 121 1112
+Gerrf Ann - 505 1509
+Ivanov Ivan 70 318 1507
+Petrova Alina 99 318 1534
+Krauze Julia - 121 1112
+Russian Victor 100 121 1112
