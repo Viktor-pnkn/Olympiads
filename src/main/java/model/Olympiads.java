@@ -323,7 +323,7 @@ public class Olympiads {
     public static ArrayList<Integer> getSchoolAverage(ArrayList<Student> list) {
         ArrayList<Integer> schools = new ArrayList<>();
         Map<Integer, Double> average = averageSchools(list);
-        ArrayList<Map.Entry<Integer, Double>> lst = new ArrayList<>(average.entrySet());
+
         lst.sort(new Comparator<Map.Entry<Integer, Double>>() {
             @Override
             public int compare(Map.Entry<Integer, Double> o1, Map.Entry<Integer, Double> o2) {
